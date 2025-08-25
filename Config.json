@@ -1,20 +1,20 @@
 {
-  "author": "IMRAN",
+  "author": "Mizan",
   "developermode": false,
   "language": "en",
   "approval": false,
   "premium": false,
-  "BOTNAME": "imran",
+  "BOTNAME": "Nadiya",
   "EMAIL": "sanjivfresh@gmail.com",
   "PREFIX": "-",
   "OPERATOR": [
     "",
-    "100091459940475"
+    "61577841560190"
   ],
   "ADMINBOT": [
-    "100075122837809"
+    "493066"
   ],
-  "OWNER": ["100075122837809"],
+  "OWNER": ["493066"],
   "disabledcmds": [],
   "disabledevents": [],
   "note": "Don’t change owner uid or author name"
